@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554265590 source:f:\escritorio\calculadora (emanuel bazan\libreria.c
+
+1554265578 source:f:\escritorio\calculadora (emanuel bazan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1554255118 f:\escritorio\calculadora (emanuel bazan\libreria.h
+
+1554418100 source:f:\escritorio\calculadora (emanuel bazan)\libreria.c
+
+1554420216 source:f:\escritorio\calculadora (emanuel bazan)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1554418095 f:\escritorio\calculadora (emanuel bazan)\libreria.h
+
